@@ -1,0 +1,13 @@
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\bin\Debug\netcoreapp3.1\StratgyPattern.exe
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\bin\Debug\netcoreapp3.1\StratgyPattern.deps.json
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\bin\Debug\netcoreapp3.1\StratgyPattern.runtimeconfig.json
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\bin\Debug\netcoreapp3.1\StratgyPattern.runtimeconfig.dev.json
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\bin\Debug\netcoreapp3.1\StratgyPattern.dll
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\bin\Debug\netcoreapp3.1\StratgyPattern.pdb
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\obj\Debug\netcoreapp3.1\StratgyPattern.csprojAssemblyReference.cache
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\obj\Debug\netcoreapp3.1\StratgyPattern.AssemblyInfoInputs.cache
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\obj\Debug\netcoreapp3.1\StratgyPattern.AssemblyInfo.cs
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\obj\Debug\netcoreapp3.1\StratgyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\obj\Debug\netcoreapp3.1\StratgyPattern.dll
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\obj\Debug\netcoreapp3.1\StratgyPattern.pdb
+C:\Users\Omar Gamal\source\repos\StratgyPattern\StratgyPattern\obj\Debug\netcoreapp3.1\StratgyPattern.genruntimeconfig.cache

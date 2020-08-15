@@ -1,0 +1,13 @@
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\bin\Debug\netcoreapp3.1\BuilderPattern1.exe
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\bin\Debug\netcoreapp3.1\BuilderPattern1.deps.json
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\bin\Debug\netcoreapp3.1\BuilderPattern1.runtimeconfig.json
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\bin\Debug\netcoreapp3.1\BuilderPattern1.runtimeconfig.dev.json
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\bin\Debug\netcoreapp3.1\BuilderPattern1.dll
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\bin\Debug\netcoreapp3.1\BuilderPattern1.pdb
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\obj\Debug\netcoreapp3.1\BuilderPattern1.csprojAssemblyReference.cache
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\obj\Debug\netcoreapp3.1\BuilderPattern1.AssemblyInfoInputs.cache
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\obj\Debug\netcoreapp3.1\BuilderPattern1.AssemblyInfo.cs
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\obj\Debug\netcoreapp3.1\BuilderPattern1.csproj.CoreCompileInputs.cache
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\obj\Debug\netcoreapp3.1\BuilderPattern1.dll
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\obj\Debug\netcoreapp3.1\BuilderPattern1.pdb
+C:\Users\Omar Gamal\source\repos\BuilderPattern1\BuilderPattern1\obj\Debug\netcoreapp3.1\BuilderPattern1.genruntimeconfig.cache
